@@ -1,7 +1,6 @@
 
-https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/newbestv.m3u   全的
+https://ghproxy.com/https://raw.githubusercontent.com/dedede555/cctv/blob/main/quan.m3u    全的
 
 
 
 
-# cctv
